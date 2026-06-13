@@ -19,3 +19,7 @@ This project analyzes the Olist Brazilian E-Commerce dataset to identify sales t
 
 ## Dashboard
 Power BI dashboard screenshot included in this repository.
+## Additional Visualizations
+
+- Order Value Distribution (Histogram)
+- Category vs Month Revenue Heatmap
